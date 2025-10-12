@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.poster {
+    width: 400px;
+    height: 500px;
+    border-radius: 10px;
+    transition-property: height, width;
+    transition-duration: 1s;
+}
+
+#movie-1984:hover {
+    width: 600px;
+    height: 700px;
+    border-radius: 10px;
+}
+
+#movie-2012:hover {
+    width: 600px;
+    height: 700px;
+    border-radius: 10px;
+}
+
+#movie-2025:hover {
+    width: 600px;
+    height: 700px;
+    border-radius: 10px;
+}
